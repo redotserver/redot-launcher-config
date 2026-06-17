@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "RedOT",
-	"newClientUrl" : "https://github.com/opentibiabr/canary-launcher/releases/download/1.0.0/client-to-update.zip",
+	"newClientUrl" : "https://www.dropbox.com/scl/fi/xe4b3t041jymecyvygpkz/RedOT_TestServer_15.20.zip?rlkey=6lttk44ha3y8o6ehrivx0un2b&st=zxm7d1q8&dl=1",
 	"clientExecutable": "client.exe"
 }
