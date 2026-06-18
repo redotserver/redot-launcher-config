@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "RedOT Launcher",
+  "pub_date": "2026-06-18T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://seu-dominio.com/redot-launcher/RedOTLauncher_1.0.1_x64-setup.nsis.zip",
+      "signature": "conteudo do arquivo .sig"
+    }
+  }
+}
