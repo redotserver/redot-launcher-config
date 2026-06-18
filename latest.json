@@ -4,8 +4,8 @@
   "pub_date": "2026-06-18T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://seu-dominio.com/redot-launcher/RedOTLauncher_1.0.1_x64-setup.nsis.zip",
-      "signature": "conteudo do arquivo .sig"
+      "url": "https://github.com/redotserver/redot-launcher-config/releases/download/RedOT-Launcher/RedOTLauncher_1.0.0_x64-setup.nsis.zip",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUallCSTF2cHJ5SlFFTjNveTkrS256b0ZBbk9veDRjY3hLYnR6ZlFDbVllYm82clFDTStzWmhVU0FtRmRvMlZmT2NOTlJoem9JTXMvdXJINWxGbDNjNDg1eTNjUFYxaUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODE1MzQ2CWZpbGU6UmVkT1RMYXVuY2hlcl8xLjAuMF94NjQtc2V0dXAubnNpcy56aXAKWjNUWk9zeXY3RTlPVmhCRDIzVzlQb0RoTjdlUk9pQ0pkZmF1cUhPS0tJeUFEYmNPeS9yMXhHeTBMeGFHeUxFVnN2MDdGYkp0bkpFVFd1eVhITi9ZRHc9PQo="
     }
   }
 }
