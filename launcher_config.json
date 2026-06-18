@@ -1,6 +1,6 @@
 {
 	"clientVersion": "15.20",
-	"launcherVersion": "1.0",
+	"launcherVersion": "1.2",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "RedOT",
-	"newClientUrl" : "https://www.dropbox.com/scl/fi/xe4b3t041jymecyvygpkz/RedOT_TestServer_15.20.zip?rlkey=6lttk44ha3y8o6ehrivx0un2b&st=zxm7d1q8&dl=1",
+	"newClientUrl" : "https://www.dropbox.com/scl/fi/qqlh4189cnrfjp1oemrja/RedOT-TestServer-15.20.zip?rlkey=jjvxc9ze0ir9uq1gxrs2lae0p&st=9p855al3&dl=1",
 	"clientExecutable": "client.exe"
 }
